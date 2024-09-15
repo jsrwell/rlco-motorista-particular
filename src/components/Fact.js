@@ -9,7 +9,7 @@ const Fact = () => (
           <h6 className="text-secondary text-uppercase mb-3">Fatos Importantes</h6>
           <h1 className="mb-5">A escolha certa para suas viagens particulares</h1>
           <p className="mb-5">
-            Com mais de 30 mil viagens realizadas ao longo de 8 anos de experiência, RLCO Transporte Particular é sinônimo de rapidez, confiança e pontualidade. Nosso objetivo é oferecer um serviço personalizado e de alta qualidade para atender todas as suas necessidades de transporte.
+            Com mais de 5 mil viagens realizadas ao longo de 8 anos de experiência, RLCO Transporte Particular é sinônimo de rapidez, confiança e pontualidade. Nosso objetivo é oferecer um serviço personalizado e de alta qualidade para atender todas as suas necessidades de transporte.
           </p>
           <div className="d-flex align-items-center">
             <a href="https://wa.me/5541998765432" target="_blank" rel="noopener noreferrer" className="whatsapp-link round-button">
@@ -25,7 +25,7 @@ const Fact = () => (
         <div className="col-lg-6">
           <div className="row g-4 align-items-center">
             <div className="col-6 text-center wow fadeIn" data-wow-delay="0.3s">
-              <h1 className="display-4 text-primary" data-toggle="counter-up">30,000+</h1>
+              <h1 className="display-4 text-primary" data-toggle="counter-up">5,000+</h1>
               <h6 className="text-uppercase">Viagens realizadas</h6>
             </div>
             <div className="col-6 text-center wow fadeIn" data-wow-delay="0.5s">
