@@ -485,14 +485,17 @@ html {
 	overflow: hidden;
 }
 
-/* .bg-primary {
-    background-color: var(--primary) !important;
+.whatsapp-link {
+    background-color: #25D366;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 56px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
 }
 
-.border-primary {
-    border-color: var(--primary) !important;
+.whatsapp-link:hover {
+    background-color: #20b857;
 }
-
-.text-primary {
-    color: var(--primary) !important;
-} */
