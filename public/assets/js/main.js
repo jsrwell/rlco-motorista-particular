@@ -7,7 +7,7 @@
             if ($('#spinner').length > 0) {
                 $('#spinner').removeClass('show');
             }
-        }, 3);
+        }, 1);
     };
     spinner();
    
