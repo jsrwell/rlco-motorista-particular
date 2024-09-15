@@ -6,6 +6,11 @@
     --dark: #060315;
 }
 
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }

@@ -3,7 +3,7 @@ import React from 'react';
 
 const ServiceItems = () => {
 	return (
-		<div className="row g-5">
+		<div className="row g-5" id="serviceItems">
 			<div className="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
 				<div className="service-item p-4">
 					<div className="overflow-hidden mb-4">

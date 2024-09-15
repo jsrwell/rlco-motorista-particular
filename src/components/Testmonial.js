@@ -2,7 +2,7 @@ import React from 'react'
 
 const Testimonial = () => {
 	return (
-		<div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+		<div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s" id="testmonial">
 			<div className="container py-5">
 				<div className="text-center">
 					<h6 className="text-secondary text-uppercase">Testimonial</h6>

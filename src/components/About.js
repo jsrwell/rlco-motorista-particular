@@ -2,7 +2,7 @@
 import React from 'react';
 
 const About = () => (
-  <div className="container-fluid overflow-hidden py-5 px-lg-0">
+  <div className="container-fluid overflow-hidden py-5 px-lg-0" id='about'>
     <div className="container about py-5 px-lg-0">
       <div className="row g-5 mx-lg-0">
         <div className="col-lg-6 ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s" style={{ minHeight: '400px' }}>

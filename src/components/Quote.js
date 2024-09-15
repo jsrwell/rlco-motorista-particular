@@ -2,7 +2,7 @@ import React from 'react'
 
 const Quote = () => {
 	return (
-		<div className="container-xxl py-5">
+		<div className="container-xxl py-5" id="quote">
 			<div className="container py-5">
 				<div className="row g-5 align-items-center">
 					<div className="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
