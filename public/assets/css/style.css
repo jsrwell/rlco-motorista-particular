@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF3E41;
-    --secondary: #51CFED;
-    --light: #F8F2F0;
-    --dark: #060315;
+    --primary: #2D4059;
+    --secondary: #EA5455;
+    --light: #F4F4F9;
+    --dark: #1B1B2F;
 }
 
 html {
@@ -89,7 +89,7 @@ html {
     position: relative;
     margin-right: 30px;
     padding: 25px 0;
-    color: #FFFFFF;
+    color: var(--dark);
     font-size: 15px;
     text-transform: uppercase;
     outline: none;
@@ -479,3 +479,20 @@ html {
 .footer .copyright a {
     color: var(--light);
 }
+
+.round-button {
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+/* .bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.border-primary {
+    border-color: var(--primary) !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+} */

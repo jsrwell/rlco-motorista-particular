@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
-      <a onClick={() => handleScroll('home')} className="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5" style={{ cursor: 'pointer' }}>
+      <a onClick={() => handleScroll('top')} className="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5" style={{ cursor: 'pointer' }}>
         <h2 className="mb-2 text-white">RLCO | Transporte Particular</h2>
       </a>
       <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -25,7 +25,7 @@ const Navbar = () => {
           <a onClick={() => handleScroll('testmonial')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Relatos</a>
         </div>
         <h4 className="m-0 pe-lg-5 d-none d-lg-block">
-          <i className="fa fa-headphones text-primary me-3"></i>(41) 9.9926-1909
+          <i className="fa fa-mobile text-primary me-3" aria-hidden="true"></i>(41) 9.9926-1909
         </h4>
       </div>
     </nav>

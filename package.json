@@ -12,6 +12,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "rlco_motorista_particular": "file:",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,6 +40,9 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.78.0"
+    "css-loader": "^7.1.2",
+    "sass": "^1.78.0",
+    "sass-loader": "^16.0.1",
+    "style-loader": "^4.0.0"
   }
 }
