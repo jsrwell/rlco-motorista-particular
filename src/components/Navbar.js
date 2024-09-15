@@ -18,7 +18,7 @@ const Navbar = () => {
       </button>
       <div className="collapse navbar-collapse" id="navbarCollapse">
         <div className="navbar-nav ms-auto p-4 p-lg-0">
-          <a onClick={() => handleScroll('top')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Sobre</a>
+          <a onClick={() => handleScroll('top')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Início</a>
           <a onClick={() => handleScroll('serviceItems')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Serviços</a>
           <a onClick={() => handleScroll('princing')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Preços</a>
           <a onClick={() => handleScroll('team')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Time</a>

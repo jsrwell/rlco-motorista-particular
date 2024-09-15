@@ -26,8 +26,8 @@ const Carousel = () => (
 						<p className="fs-5 fw-medium text-white mb-4 pb-2">
 							O melhor para suas necessidades, sempre com o máximo de conforto e segurança.
 						</p>
-						<a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Saiba Mais</a>
-						<a href="https://wa.me/5541999261909?text=Ol%C3%A1%20RLCO%20Transportes%20Particular%2C%0A%0AGostaria%20de%20realizar%20um%20or%C3%A7amento%20com%20voc%C3%AA." className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Solicite um Orçamento</a>
+						<a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft round-button">Saiba Mais</a>
+						<a href="https://wa.me/5541999261909?text=Ol%C3%A1%20RLCO%20Transportes%20Particular%2C%0A%0AGostaria%20de%20realizar%20um%20or%C3%A7amento%20com%20voc%C3%AA." className="btn btn-secondary py-md-3 px-md-5 animated slideInRight round-button">Solicite um Orçamento</a>
 					</div>
 				</div>
 
@@ -44,8 +44,8 @@ const Carousel = () => (
 						<p className="fs-5 fw-medium text-white mb-4 pb-2">
 							Oferecemos um serviço de transporte rápido e seguro, com motorista experiente e especializado em atender às suas necessidades.
 						</p>
-						<a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Saiba Mais</a>
-						<a href="https://wa.me/5541999261909?text=Ol%C3%A1%20RLCO%20Transportes%20Particular%2C%0A%0AGostaria%20de%20realizar%20um%20or%C3%A7amento%20com%20voc%C3%AA." className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Solicite um Orçamento</a>
+						<a href="#about" className="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft round-button">Saiba Mais</a>
+						<a href="https://wa.me/5541999261909?text=Ol%C3%A1%20RLCO%20Transportes%20Particular%2C%0A%0AGostaria%20de%20realizar%20um%20or%C3%A7amento%20com%20voc%C3%AA." className="btn btn-secondary py-md-3 px-md-5 animated slideInRight round-button">Solicite um Orçamento</a>
 					</div>
 				</div>
 			</div>

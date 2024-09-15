@@ -31,3 +31,8 @@
 		display: none;
 	}
 }
+
+.round-button {
+	border-radius: 5px;
+	overflow: hidden;
+}
