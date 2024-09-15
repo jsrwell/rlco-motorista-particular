@@ -1,0 +1,33 @@
+/* src/components/Carousel.css */
+
+.carousel-inner,
+.carousel-item,
+.carousel-image-container {
+	height: 100vh;
+	position: relative;
+}
+
+.carousel-image-container img {
+	width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+#carousel {
+	margin-top: -80px;
+}
+
+@media (max-width: 770px) {
+	#carousel {
+		display: none;
+	}
+}

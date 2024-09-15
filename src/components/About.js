@@ -7,7 +7,7 @@ const About = () => (
       <div className="row g-5 mx-lg-0">
         <div className="col-lg-6 ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s" style={{ minHeight: '400px' }}>
           <div className="position-relative h-100">
-            <img className="position-absolute img-fluid w-100 h-100" src="img/about.jpg" style={{ objectFit: 'cover' }} alt="" />
+            <img className="position-absolute img-fluid w-100 h-100" src="assets/img/about.jpg" style={{ objectFit: 'cover' }} alt="" />
           </div>
         </div>
         <div className="col-lg-6 about-text wow fadeInUp" data-wow-delay="0.3s">
