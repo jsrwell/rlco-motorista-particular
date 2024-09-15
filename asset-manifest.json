@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rlco-motorista-particular/static/css/main.c618de4d.css",
-    "main.js": "/rlco-motorista-particular/static/js/main.67b81f50.js",
+    "main.js": "/rlco-motorista-particular/static/js/main.0c8d381c.js",
     "static/js/453.e25a2dbe.chunk.js": "/rlco-motorista-particular/static/js/453.e25a2dbe.chunk.js",
     "index.html": "/rlco-motorista-particular/index.html",
     "main.c618de4d.css.map": "/rlco-motorista-particular/static/css/main.c618de4d.css.map",
-    "main.67b81f50.js.map": "/rlco-motorista-particular/static/js/main.67b81f50.js.map",
+    "main.0c8d381c.js.map": "/rlco-motorista-particular/static/js/main.0c8d381c.js.map",
     "453.e25a2dbe.chunk.js.map": "/rlco-motorista-particular/static/js/453.e25a2dbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c618de4d.css",
-    "static/js/main.67b81f50.js"
+    "static/js/main.0c8d381c.js"
   ]
 }
