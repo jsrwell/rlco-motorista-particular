@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="navbar-nav ms-auto p-4 p-lg-0">
           <a onClick={() => handleScroll('top')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Início</a>
           <a onClick={() => handleScroll('serviceItems')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Serviços</a>
-          <a onClick={() => handleScroll('princing')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Preços</a>
+          <a onClick={() => handleScroll('pricing')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Preços</a>
           <a onClick={() => handleScroll('team')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Time</a>
           <a onClick={() => handleScroll('testmonial')} className="nav-item nav-link" style={{ cursor: 'pointer' }}>Relatos</a>
         </div>
