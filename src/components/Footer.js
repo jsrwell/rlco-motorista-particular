@@ -6,86 +6,55 @@ const Footer = () => {
 			<div className="container py-5">
 				<div className="row g-5">
 					<div className="col-lg-3 col-md-6">
-						<h4 className="text-light mb-4">Address</h4>
+						<h4 className="text-light mb-4">Endereço</h4>
 						<p className="mb-2">
-							<i className="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA
+							<i className="fa fa-map-marker-alt me-3"></i>Curitiba e Região, PR
 						</p>
 						<p className="mb-2">
-							<i className="fa fa-phone-alt me-3"></i>+012 345 67890
+							<i className="fa fa-phone-alt me-3"></i>(41) 9.9926-1909
 						</p>
 						<p className="mb-2">
-							<i className="fa fa-envelope me-3"></i>info@example.com
+							<i className="fa fa-envelope me-3"></i>rlcotransporteprivado@gmail.com
 						</p>
-						<div className="d-flex pt-2">
-							<a className="btn btn-outline-light btn-social" href="www.google.com">
-								<i className="fab fa-twitter"></i>
-							</a>
-							<a className="btn btn-outline-light btn-social" href="www.google.com">
-								<i className="fab fa-facebook-f"></i>
-							</a>
-							<a className="btn btn-outline-light btn-social" href="www.google.com">
-								<i className="fab fa-youtube"></i>
-							</a>
-							<a className="btn btn-outline-light btn-social" href="www.google.com">
-								<i className="fab fa-linkedin-in"></i>
-							</a>
-						</div>
 					</div>
 					<div className="col-lg-3 col-md-6">
-						<h4 className="text-light mb-4">Services</h4>
-						<a className="btn btn-link" href="www.google.com">
-							Air Freight
+						<h4 className="text-light mb-4">Serviços</h4>
+						<a className="btn btn-link" href="#serviceItems">
+							Viagens Corporativas
 						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Sea Freight
+						<a className="btn btn-link" href="#serviceItems">
+							Traslados Aeroportuários
 						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Land Transport
+						<a className="btn btn-link" href="#serviceItems">
+							Viagens de Lazer
 						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Cargo Storage
+						<a className="btn btn-link" href="#pricing">
+							Transporte Sob Medida
 						</a>
 					</div>
 					<div className="col-lg-3 col-md-6">
-						<h4 className="text-light mb-4">Quick Links</h4>
-						<a className="btn btn-link" href="www.google.com">
-							About Us
+						<h4 className="text-light mb-4">Acesso Rápido</h4>
+						<a className="btn btn-link" href="#about">
+							Sobre
 						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Contact Us
+						<a className="btn btn-link" href="https://wa.me/5541998765432?text=Gostaria%20de%20mais%20informações%20sobre%20os%20Planos.">
+							Contato
 						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Our Services
-						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Terms & Condition
-						</a>
-						<a className="btn btn-link" href="www.google.com">
-							Support
+						<a className="btn btn-link" href="#serviceItems">
+							Nossos Serviços
 						</a>
 					</div>
-					<div className="col-lg-3 col-md-6">
-						<h4 className="text-light mb-4">Newsletter</h4>
-						<p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-						<div className="position-relative w-100">
-							<input className="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email" />
-							<button type="button" className="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">
-								SignUp
-							</button>
-						</div>
-					</div>
+
 				</div>
 			</div>
 			<div className="container-fluid copyright">
 				<div className="container">
 					<div className="row">
 						<div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-							&copy; <a href="www.google.com">Your Site Name</a>, All Right Reserved.
+							&copy; <a href="#top">RLCO | Transporte Particular</a>, Todos os Direitos Reservados.
 						</div>
 						<div className="col-md-6 text-center text-md-end">
-							Designed By <a href="https://htmlcodex.com">HTML Codex</a>
-							<br />
-							Distributed By <a href="https://themewagon.com">ThemeWagon</a>
+							Desenvolvido por <a href="https://www.linkedin.com/in/jsrwell/">jsrwell</a>
 						</div>
 					</div>
 				</div>
