@@ -19,9 +19,10 @@ const Team = () => {
 							<div className="btn-slide mt-1">
 								<i className="fa fa-share"></i>
 								<span>
-									<a href="https://www.facebook.com/ricardo.leandro" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a>
+									<a href="https://wa.me/5541999261909?text=Ol%C3%A1%20Ricardo%2C%20gostaria%20de%20saber%20mais%20sobre%20transportes%20particulares%20com%20voc%C3%AA." target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i></a>
+									{/* <a href="https://www.facebook.com/ricardo.leandro" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a>
 									<a href="https://twitter.com/ricardo_leandro" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-									<a href="https://www.instagram.com/ricardo_leandro" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+									<a href="https://www.instagram.com/ricardo_leandro" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a> */}
 								</span>
 							</div>
 						</div>
